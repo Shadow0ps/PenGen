@@ -34,7 +34,7 @@ This isn't meant to be the end all be all of pentest reporting tools. It's here 
 Describe how to install and set up the project. Include any prerequisites, dependencies, or configuration steps necessary.
 
 ```bash
-# Example installation commands
+# Easy Install
 git clone https://github.com/Shadow0ps/PenGen.git
 cd PenGen
 ```
@@ -44,7 +44,7 @@ cd PenGen
 Provide examples or instructions on how to use the project. Include code snippets, screenshots, or command-line examples if applicable.
 
 ```python
-# Example usage code
+# To use just run with Python
 python pen_gen.py
 ```
 
