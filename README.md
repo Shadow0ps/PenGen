@@ -1,4 +1,4 @@
-![PenGen Logo](PenGen_logo.png)
+![PenGen Logo](PenGen_logo.jpg)
 
 
 
