@@ -1,10 +1,11 @@
-![PenGen Logo](PenGen_logo.jpg)
-
+<div align="center">
+<img src="PenGen_Logo.jpg" width="400" />
+</div>
 
 
 ## Description
 
-PenGen V1 is part of a bigger project to build quick, easy tools to help get penetration testing projects off on the right foot quickly.
+PenGen V1 is part of a bigger project intended to build quick, easy tools to help get penetration testing projects off on the right foot quickly.
 One of the biggest challenges in penetration testing is having adequate documentation that is organized and consistent. Developing processes can be difficult and following best practices is essential.
 This project is aimed at helping those who wish to get a penetration testing engagement or Red Team engagement off the ground but lack the basic file/folder structures or those who wish to create a simple and repeatable folder base project structure and pull their templates or community templates into that folder structure.
 
