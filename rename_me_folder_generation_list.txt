@@ -1,0 +1,9 @@
+# This is Optional and only required if you wish to modify the folder structure defined in the script.
+# The structure below is a very basic structure so you will need to expand on it if you wish to make custom folders/subfolders.
+# The original structure included in the script does not require this file and is built on best practices.
+Application Penetration Test
+Network Penetration Test
+Cloud Security Penetration Test
+Red Team Testing
+Social Engineering Testing
+Kubernetes Penetration Testing

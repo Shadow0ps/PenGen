@@ -1,0 +1,13 @@
+# Replace these files and paths with the files located in templates.
+# For example if you want to place a template called Assessment_Report_Template.docx in the Cloud Security Penetration Test/AWS/Vulnerability Assessment folder
+# simply copy the Assessment_Report_Template.docx into the /templates folder and add: "Cloud Security Penetration Test/AWS/Vulnerability_Assessment/Assessment_Report_Template.docx" below
+Application Penetration Test/Reconnaissance/target_file1.txt
+Application Penetration Test/Exploitation/target_file2.txt
+Network Penetration Test/Internal/Reconnaissance/target_file3.txt
+Network Penetration Test/Internal/Exploitation/target_file4.txt
+Cloud Security Penetration Test/AWS/Vulnerability_Assessment/target_file5.txt
+Cloud Security Penetration Test/Azure/Vulnerability_Assessment/target_file6.txt
+Red Team Testing/Execution/target_file7.txt
+Social Engineering Testing/Physical_Social_Engineering/target_file8.txt
+Kubernetes Penetration Testing/Reconnaissance/target_file9.txt
+Kubernetes Penetration Testing/Exploitation/target_file10.txt
